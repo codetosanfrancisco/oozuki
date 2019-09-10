@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "955440711075",
+    "firebase_url": "https://oozuki-4e22d.firebaseio.com",
+    "project_id": "oozuki-4e22d",
+    "storage_bucket": "oozuki-4e22d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:955440711075:android:c52ca025ba6e581d",
+        "android_client_info": {
+          "package_name": "com.oozuki.oozuki"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "955440711075-37jjh86h245cs6n8a59o7ch71bohna7d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXwrY8TQBgJeQQ0jdJrbBn_Ton7QaNwxg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:955440711075:android:ca071b8823b2b745",
+        "android_client_info": {
+          "package_name": "com.oozuki2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "955440711075-37jjh86h245cs6n8a59o7ch71bohna7d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXwrY8TQBgJeQQ0jdJrbBn_Ton7QaNwxg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
